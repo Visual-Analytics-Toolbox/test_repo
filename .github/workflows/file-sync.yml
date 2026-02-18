@@ -22,5 +22,4 @@ jobs:
           FILES: |
             README.md=README.md
           TOKEN: ${{ secrets.ACTIONS }}
-          GIT_EMAIL: "stella.a.schlotter@gmail.com"
-          GIT_USERNAME: "Stella"
+
