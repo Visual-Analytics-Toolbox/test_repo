@@ -20,7 +20,7 @@ jobs:
           REPOSITORIES: |
             Visual-Analytics-Toolbox/test_config@main
           FILES: |
-            README.md=README.md
+            README.md
           TOKEN: ${{ secrets.ACTIONS }}
           PULL_REQUEST_BRANCH_NAME: main
 
